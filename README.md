@@ -9,3 +9,4 @@
 >
 > Vid eventuella frågor, kontakta per.z.persson@sundsvall.se (@pellep99)
 
+[Läs riktlinjen här](riktlinje.md)
