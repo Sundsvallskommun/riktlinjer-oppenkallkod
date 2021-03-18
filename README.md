@@ -9,4 +9,9 @@
 >
 > Vid eventuella frågor, kontakta per.z.persson@sundsvall.se (@pellep99)
 
-[Läs riktlinjen här](riktlinje.md)
+
+[Läs riktlinjen här](riktlinje/README.md)
+
+# Användande och spridning
+
+För att denna riktlinje skall kunna laddas ner, modifieras och vidaredistribueras har licensformen MIT valts. Förbättringsförslag tas tacksamt emot så att vi gemensamt kan förbättra dokumentet.
