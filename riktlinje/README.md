@@ -2,10 +2,6 @@
 
 Dessa riktlinjer är i första hand framtagna för att gälla API-teamet inom Sundsvalls Kommun, men hoppas kunna utvidgas till att gälla större delar av Sundsvalls Kommuns verksamhet på sikt.
 
-## Innehåll
-
-**TODO:** ... när skall GitHub MD få stöd för innehållsförteckning?
-
 ## Bakgrund
 
 I takt med att Sundsvalls Kommun ökar digitaliseringstakten och sitt användande av öppen källkod, har det uppstått ett behov av att sammanställa en riktlinje för hur exempelvis anskaffning, utveckling och publicering av tjänster baserade på just öppen källkod skall gå till.
@@ -56,8 +52,8 @@ För att säkerställa bibehållen kvalitet gäller följande:
 
 ### Hantering av återkoppling från andra
 
-Rapporterade buggar och initierade pull requests prioriteras i respektive utvecklingsteams löpande arbete. (**TODO:** funkar denna skrivelse?!)
+Rapporterade buggar och initierade pull requests prioriteras i respektive utvecklingsteams löpande arbete.
 
 ## Vidmakthållande av riktlinjen
 
-Löpande förbättringar samt kvalitetskontroll av denna riktlinje sköts som en linjeaktivitet inom avdelningen Digitalisering & Innovation på Sundsvalls kommun. (**TODO:** funkar denna skrivelse?!)
+Löpande förbättringar samt kvalitetskontroll av denna riktlinje sköts som en linjeaktivitet inom avdelningen Digitalisering & Innovation på Sundsvalls kommun.
