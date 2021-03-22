@@ -46,12 +46,18 @@ Tjänster som å andra sidan kan anses utgöra en del av en större sammanhänga
 
 ### Checklista inför löpande uppdatering
 
-**TODO:** En enklare lista med bland annat kodgranskning (kvalitet, säkerhet, mm) för att säkerställa bibehållen kvalitet.
+För att säkerställa bibehållen kvalitet gäller följande:
+* Kod är byggd enligt gällande standard med en kvalitet som tål öppenhet
+* Kod och tester är granskade av annan teammedlem
+* Feature-brancher stängda och allt mergat till main
+* Att koden levererar önskad funktion skall vara avstämd med beställare
+* Sandbox skall vara uppdaterad
+* Design- och API-dokumentation skall vara uppdaterad
 
 ### Hantering av återkoppling från andra
 
-**TODO:** Hur hanterar vi inkommande buggar och pull requests på det vi publicerat?
+Rapporterade buggar och initierade pull requests prioriteras i respektive utvecklingsteams löpande arbete. (**TODO:** funkar denna skrivelse?!)
 
 ## Vidmakthållande av riktlinjen
 
-**TODO:** Hur skall processen se ut för ständing förbättring och kvalitetskontroll av denna riktlinje?
+Löpande förbättringar samt kvalitetskontroll av denna riktlinje sköts som en linjeaktivitet inom avdelningen Digitalisering & Innovation på Sundsvalls kommun. (**TODO:** funkar denna skrivelse?!)
