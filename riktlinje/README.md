@@ -47,7 +47,6 @@ För att säkerställa bibehållen kvalitet gäller följande:
 * Kod och tester är granskade av annan teammedlem
 * Feature-brancher stängda och allt mergat till main
 * Att koden levererar önskad funktion skall vara avstämd med beställare
-* Sandbox skall vara uppdaterad
 * Design- och API-dokumentation skall vara uppdaterad
 
 ### Hantering av återkoppling från andra
